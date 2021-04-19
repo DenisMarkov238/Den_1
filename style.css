@@ -1,0 +1,19 @@
+img {
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	border-radius: 20px;
+	position: relative;
+	bottom: 10px;
+	right: 10px;
+}
+div {
+	display: inline-block;
+	border-radius: 20px;
+}
+.one {
+    background-color: purple;
+}
+.two {
+	background-color: yellow;
+}
